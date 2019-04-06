@@ -45,7 +45,7 @@
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginBottom="24dp"
             app:layout_constraintBottom_toTopOf="@+id/addFoodBtn"/>
     <Button
-            android:text="ADD FOOD"
+            android:text="Add Food bro"
             android:layout_width="230dp"
             android:layout_height="wrap_content"
             android:id="@+id/addFoodBtn"
